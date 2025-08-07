@@ -12,14 +12,21 @@ A seamless serverless solution for archiving and retrieving cold data from Azure
 3. 🧠 [Strategy](docs/02_strategy_justification.md)  
    _Cost optimization, storage strategy, and design principles._
 
-4. 🔄 [Data Lifecycle](docs/03_data_lifecycle.md)  
+4. 💻 [Sample Code](azure-functions)  
+   _key modules and logic that enable the tiered storage system._
+
+5. 🔄 [Data Lifecycle](docs/03_data_lifecycle.md)  
    _Write, archive, and read paths with storage management._
 
-5. ⚠️ [Risk Analysis](docs/04_risk_analysis.md)  
+6. ⚠️ [Risk Analysis](docs/04_risk_analysis.md)  
    _Failure scenarios and mitigation strategies._
 
-6. 📈 [Monitoring & Alerting](monitor-alerts/alerts_and_metrics.md)  
+7. 📈 [Monitoring & Alerting](monitor-alerts/alerts_and_metrics.md)  
    _Observability, metrics, and alert design._
 
-7. 🚀 [Deployment & Rollback Strategy](docs/05_deployment.md)  
+8. 🚀 [Deployment & Rollback Strategy](docs/05_deployment.md)  
    _Production rollout steps, canary strategy, and rollback plan._
+
+9. 🛠️ [Bulk Migration](scripts/bulk_migration_data_factory.md)  
+   _one-time archival for existing records using Azure Data Factory or custom scripts._
+
