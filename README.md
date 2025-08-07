@@ -1,4 +1,27 @@
 # Cosmo-Chiller
 A seamless serverless solution for archiving and retrieving cold data from Azure Cosmos DB — without changing your API or impacting performance. Chill your costs, not your availability.
 
-![Architecture Diagram](architecture/cosmo-chiller-architecture.png)
+## 📚 Documentation
+
+## 📚 Table of Contents
+
+1. 🔍 [Context](docs/01_problem_context.md)  
+   _Problem statement, business drivers, and goals._
+
+2. 🏗️ [Architecture](architecture/architecture_diagram.mmd)  
+   _High-level and low-level architecture diagrams and explanations._
+
+3. 🧠 [Strategy](docs/02_strategy_justification.md)  
+   _Cost optimization, storage strategy, and design principles._
+
+4. 🔄 [Data Lifecycle](docs/03_data-lifecycle.md)  
+   _Write, archive, and read paths with storage management._
+
+5. ⚠️ [Risk Analysis](docs/04_risk-analysis.md)  
+   _Failure scenarios and mitigation strategies._
+
+6. 📈 [Monitoring & Alerting](monitor-alerts/alerts_and_metrics.md)  
+   _Observability, metrics, and alert design._
+
+7. 🚀 [Deployment & Rollback Strategy](docs/deployment-rollback.md)  
+   _Production rollout steps, canary strategy, and rollback plan._
