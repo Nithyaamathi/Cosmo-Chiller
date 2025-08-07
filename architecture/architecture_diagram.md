@@ -1,1 +1,0 @@
-- [Architecture](architecture/cosmo-chiller-architecture.png)
