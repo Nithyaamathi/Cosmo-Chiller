@@ -3,8 +3,6 @@ A seamless serverless solution for archiving and retrieving cold data from Azure
 
 ## 📚 Documentation
 
-## 📚 Table of Contents
-
 1. 🔍 [Context](docs/01_problem_context.md)  
    _Problem statement, business drivers, and goals._
 
@@ -23,5 +21,5 @@ A seamless serverless solution for archiving and retrieving cold data from Azure
 6. 📈 [Monitoring & Alerting](monitor-alerts/alerts_and_metrics.md)  
    _Observability, metrics, and alert design._
 
-7. 🚀 [Deployment & Rollback Strategy](docs/deployment-rollback.md)  
+7. 🚀 [Deployment & Rollback Strategy](docs/05_deployment.md)  
    _Production rollout steps, canary strategy, and rollback plan._
