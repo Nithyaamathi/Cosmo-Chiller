@@ -14,7 +14,7 @@ A seamless serverless solution for archiving and retrieving cold data from Azure
 3. 🧠 [Strategy](docs/02_strategy_justification.md)  
    _Cost optimization, storage strategy, and design principles._
 
-4. 🔄 [Data Lifecycle](docs/03_data-lifecycle.md)  
+4. 🔄 [Data Lifecycle](docs/03_data_lifecycle.md)  
    _Write, archive, and read paths with storage management._
 
 5. ⚠️ [Risk Analysis](docs/04_risk-analysis.md)  
