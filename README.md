@@ -8,7 +8,7 @@ A seamless serverless solution for archiving and retrieving cold data from Azure
 1. 🔍 [Context](docs/01_problem_context.md)  
    _Problem statement, business drivers, and goals._
 
-2. 🏗️ [Architecture](architecture/architecture_diagram.mmd)  
+2. 🏗️ [Architecture](architecture/cosmo-chiller-architecture.png)  
    _High-level and low-level architecture diagrams and explanations._
 
 3. 🧠 [Strategy](docs/02_strategy_justification.md)  
