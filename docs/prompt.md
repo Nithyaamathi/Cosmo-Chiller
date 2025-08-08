@@ -46,7 +46,8 @@ Try to fetch the record from the "hot" tier (Cosmos DB).
 If it returns a "not found" error, fetch the record from the "cold" archive tier.
 Return the record to the user, maintaining the original API contract.
 
-#Section 4: Production Readiness & Risk Analysis This section is critical. Demonstrate forward-thinking by addressing potential real-world issues.
+#Section 4: Production Readiness & Risk Analysis 
+This section is critical. Demonstrate forward-thinking by addressing potential real-world issues.
 Failure Scenarios & Mitigation: What could go wrong?
 Archival Failure: What happens if the archival function fails midway? How do you prevent data loss or partial archival? (e.g., dead-letter queues, idempotent operations).
 Race Conditions: Could a record be requested for read while it's being archived? How do you handle this?
